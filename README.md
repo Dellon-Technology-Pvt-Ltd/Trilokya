@@ -126,12 +126,12 @@ We welcome contributions from the community. Please feel free to submit pull req
 
 ## 📞 Contact & Support
 For questions, support, or collaboration opportunities, reach out via:
-- **Website**: [Amynasec Labs](https://amynasec.io)
-- **GitHub Issues**: [Submit an Issue](https://github.com/AmynaSec-Research-Labs/Trilokya-/issues)
+- **Website**: [Dellon](https://dellon.io)
+- **GitHub Issues**: [Submit an Issue](https://github.com/Dellon-Technology-Pvt-Ltd/Trilokya/issues)
 
 ---
 
-_Developed by [Amynasec Labs](https://amynasec.io) for security professionals and researchers._
+_Developed by [Dellon](https://dellon.io) for security professionals and researchers._
 
 ---
 
