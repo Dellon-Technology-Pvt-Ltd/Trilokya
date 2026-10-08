@@ -103,7 +103,7 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ## 📌 Download & Installation
 Get **Trilokya OS** from the official link:
-[🔗 Download Here](https://amynasecresearch.sharepoint.com/:u:/s/AMYNASECRESEARCHLABSPVTLTD/IQDu5kUTDiPnTpb_gnRyfwRTAQkmEhoQi9CgZxdg2QUkubY?e=7J8qim)
+[🔗 Download Here](https://drive.google.com/file/d/1h5dlMuQHGi-cMKHP3i9FVFxSJ_iQzwP1/view)
 
 ## 🔑 Credentials
 
